@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T03:50:05.293Z" agent="5.0 (Macintosh)" version="16.5.3" etag="LU27BYU7ffEJ-x4tbFGr" type="github"><diagram id="oCuOEWk8SFERVtFBZjPN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-07T06:28:18.447Z" agent="5.0 (Macintosh)" etag="G72k1_1s52B0vEBgh-hM" version="16.5.3" type="github">
+  <diagram id="oCuOEWk8SFERVtFBZjPN" name="Page-1">
+    <mxGraphModel dx="1082" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-czBTv5WImqDvt4zRauN-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/tear-128.png;rotation=-180;imageBackground=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="158" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-2" value="" style="shape=mxgraph.signs.transportation.airplane_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="282" width="117" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/44-Antenna-128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" vertex="1" parent="1">
+          <mxGeometry x="590" y="198" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-6" value="GPS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/50_satellite_antenna_radar_space_Signal_space-128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="78" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-10" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="71.5" width="116" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-14" value="RC Transmitter&#xa;" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-25;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Joystick-128.png;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="-czBTv5WImqDvt4zRauN-14">
+          <mxGeometry y="8.695652173913043" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" vertex="1" parent="-czBTv5WImqDvt4zRauN-14">
+          <mxGeometry x="40.3125" width="36.09375" height="36.09375" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-16" value="FPV Goggles" style="group;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacingTop=-24;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519647-150_Glasses-128.png" vertex="1" parent="-czBTv5WImqDvt4zRauN-16">
+          <mxGeometry width="112.5" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" vertex="1" parent="-czBTv5WImqDvt4zRauN-16">
+          <mxGeometry x="41.25" y="18.75" width="35.15625" height="35.15625" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
