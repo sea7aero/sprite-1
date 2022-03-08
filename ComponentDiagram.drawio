@@ -1,44 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T18:20:43.229Z" agent="5.0 (Macintosh)" etag="t1F7dSEjko3rg5-Ew3kB" version="16.5.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-08T18:43:31.120Z" agent="5.0 (Macintosh)" etag="W_4QZXgh-zHtx92-CgDZ" version="16.5.5" type="github" pages="3">
   <diagram id="oCuOEWk8SFERVtFBZjPN" name="Overview">
     <mxGraphModel dx="1298" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startArrow=none;startFill=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="-czBTv5WImqDvt4zRauN-1" target="-czBTv5WImqDvt4zRauN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-czBTv5WImqDvt4zRauN-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/tear-128.png;rotation=-180;imageBackground=default;" parent="1" vertex="1">
-          <mxGeometry x="320" y="40" width="158" height="158" as="geometry" />
+          <mxGeometry x="200" y="80" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-2" value="" style="shape=mxgraph.signs.transportation.airplane_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="340.5" y="282" width="117" height="118" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="-czBTv5WImqDvt4zRauN-2" target="-czBTv5WImqDvt4zRauN-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/44-Antenna-128.png" parent="1" vertex="1">
-          <mxGeometry x="610" y="400" width="128" height="128" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="-czBTv5WImqDvt4zRauN-6" target="-czBTv5WImqDvt4zRauN-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" parent="1" vertex="1">
-          <mxGeometry x="590" y="198" width="62" height="62" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="-czBTv5WImqDvt4zRauN-2" target="N_dWyR0iJAAXFoHgMT-S-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-2" value="Vehicle" style="shape=mxgraph.signs.transportation.airplane_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=0;flipV=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-6" value="5.8 Ghz FPV" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="-czBTv5WImqDvt4zRauN-4" target="-czBTv5WImqDvt4zRauN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-4" value="FPV Relay" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/44-Antenna-128.png" parent="1" vertex="1">
+          <mxGeometry x="40" y="438" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-czBTv5WImqDvt4zRauN-6" value="GPS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/50_satellite_antenna_radar_space_Signal_space-128.png" parent="1" vertex="1">
-          <mxGeometry x="40" y="78" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-10" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="570" y="71.5" width="116" height="86.5" as="geometry" />
+        <mxCell id="-czBTv5WImqDvt4zRauN-10" value="Mission Planner" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_2;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="400" y="338" width="80.46" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-14" value="RC Transmitter&#xa;" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-25;fontSize=16;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="280" y="600" width="120" height="120" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" target="N_dWyR0iJAAXFoHgMT-S-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441" y="198" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Joystick-128.png;strokeColor=#000000;fillColor=#000000;" parent="-czBTv5WImqDvt4zRauN-14" vertex="1">
-          <mxGeometry y="8.695652173913043" width="110" height="110" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-1" value="&lt;div&gt;Amateur Radio&lt;/div&gt;&lt;div&gt;Network&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/44-Antenna-128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="78" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" parent="-czBTv5WImqDvt4zRauN-14" vertex="1">
-          <mxGeometry x="40.3125" width="36.09375" height="36.09375" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="N_dWyR0iJAAXFoHgMT-S-2" target="-czBTv5WImqDvt4zRauN-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-16" value="FPV Goggles" style="group;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacingTop=-24;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="440" y="600" width="120" height="120" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-2" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380.69" y="228" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519647-150_Glasses-128.png" parent="-czBTv5WImqDvt4zRauN-16" vertex="1">
-          <mxGeometry width="112.5" height="112.5" as="geometry" />
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-4" value="FPV Goggles" style="group;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="438" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-czBTv5WImqDvt4zRauN-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" parent="-czBTv5WImqDvt4zRauN-16" vertex="1">
-          <mxGeometry x="41.25" y="18.75" width="35.15625" height="35.15625" as="geometry" />
+        <mxCell id="-czBTv5WImqDvt4zRauN-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519647-150_Glasses-128.png" parent="N_dWyR0iJAAXFoHgMT-S-4" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" parent="N_dWyR0iJAAXFoHgMT-S-4" vertex="1">
+          <mxGeometry x="29.333333333333332" y="13.333333333333334" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-5" value="RC Radio" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;spacingTop=-23;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="438" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Joystick-128.png;strokeColor=#000000;fillColor=#000000;" parent="N_dWyR0iJAAXFoHgMT-S-5" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-czBTv5WImqDvt4zRauN-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png" parent="N_dWyR0iJAAXFoHgMT-S-5" vertex="1">
+          <mxGeometry x="27.965000000000003" width="24.0625" height="24.0625" as="geometry" />
+        </mxCell>
+        <mxCell id="N_dWyR0iJAAXFoHgMT-S-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;strokeWidth=2;" edge="1" parent="1" source="-czBTv5WImqDvt4zRauN-12" target="-czBTv5WImqDvt4zRauN-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
