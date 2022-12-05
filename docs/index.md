@@ -4,6 +4,3 @@ Operation Whale Drop is a high altitude balloon (HAB) mission to drop a RC-contr
 stratospheric altitude and return it to the launch area.
 
 ![Component Diagram](../diagrams/ComponentDiagram.png)
-
-```{tableofcontents}
-```
