@@ -10,5 +10,5 @@ on:
 
 jobs:
   publish:
-    uses: sea7aero/theme/.github/workflows/publish-jupyter-book.yml@v1
+    uses: sea7aero/theme/.github/workflows/publish-jupyter-book.yml@main
 
