@@ -1,4 +1,4 @@
-# Initial PIDs iNavosaurus Rex on INAV Fixed Wing Group
+# Initial PIDs from iNavosaurus Rex on INAV Fixed Wing Group
 set fw_p_pitch = 15
 set fw_i_pitch = 5
 set fw_d_pitch = 5
